@@ -1,7 +1,7 @@
 # TP1
 
 <!--- Changer la date de remise en modifiant le URL--->
-#### :alarm_clock: [Date de remise le dimanche 27 septembre 2020 à 23h59](https://www.timeanddate.com/countdown/generic?iso=20200927T2359&p0=165&msg=Remise&font=cursive&csz=1#)
+#### :alarm_clock: [Date de remise le dimanche 17 fevrier 2021 à 23h59](https://www.timeanddate.com/countdown/generic?iso=20200927T2359&p0=165&msg=Remise&font=cursive&csz=1#)
 
 ## Objectif
 
@@ -150,14 +150,8 @@ Dans cet exercice, vous devez compléter la fonction pointsperdu qui reçoit le 
 def points_perdu(dindon, lievre, cerf, ours_noir):
 
     # TODO: Calculer le nombre de points disponible 
-    nombre_points = 100 - dindon + 3*lievre + 5*cerf + 10*ours_noir
 	
     # TODO: Afficher le nombre de points disponible
-    print("Le nombre de points disponible est {0}".format(nombre_points))
 	
     return nombre_points
 ```
-Si votre programme a été correctement écrit, vous devriez voire une simulation visuelle du nombre complexe avant et apres rotation:
-<p align="center">
-     <img src="img/complexe.PNG?raw=true"/>
-</p>
