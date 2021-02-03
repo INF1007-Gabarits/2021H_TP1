@@ -21,7 +21,7 @@ Pour ce TP, certaines contraintes sont à respecter:
 - Il est interdit de manipuler des chaînes de caractère.
 - Il est interdit d'utiliser les structures de répétitions (for, while).
 
-## Exercice 1:
+## Exercice 1: /3points
 Dans cet exercice, vous devez calculer la portée d'un canon. Le programme commence en demandant à l'utilisateur de saisir l'agle en degré du canon et la vitesse (en km/h) du projectile, il suffit de compléter la fonction `calculer_portee()`.
 ```python
     def calculer_portee(angle, vitesse):
@@ -36,7 +36,7 @@ Dans cet exercice, vous devez calculer la portée d'un canon. Le programme comme
 
 Les points seront donnés dans la conversion de la vitesse et dans le calcul de la portée.
 
-## Exercice 2:
+## Exercice 2: /6points
 Dans cet exercice, vous devez résoudre une équation quadratique de la forme <img src="https://render.githubusercontent.com/render/math?math=ax^2"> + <img src="https://render.githubusercontent.com/render/math?math=bx"> + <img src="https://render.githubusercontent.com/render/math?math=c">. Le programme commence en demandant à l'utilisateur de saisir la valeur des variables `a`, `b` et `c`. Il suffit de compléter la fonction `resoudreEquation()`.
 ```python
     def resoudreEquation(a, b, c):
@@ -80,7 +80,7 @@ Dans cet exercice, vous devez résoudre une équation quadratique de la forme <i
         # ne pas modifier cette ligne
         return x1, x2
 ```
-## Exercice 3:
+## Exercice 3: /4points
 Dans cet exercice, vous devez calculer le nombre d'unités, de dizaines et de centaines d'un nombre indiqué par l'utilisateur. Cepandant, vous ne pouvez utiliser que les fonctions de la libraire Math. Je rappelle qu'il est interdit d'utiliser les chaines de caractères!
 ```python
     def calculer_unites_dizaines_centaine(nombre):
@@ -98,7 +98,7 @@ Dans cet exercice, vous devez calculer le nombre d'unités, de dizaines et de ce
 
         return (unites, dizaines, centaines)
 ```
-## Exercice 4:
+## Exercice 4: /5points
 Dans cet exercice vous devez convertir une date (jour, mois, année) entré par l'utilisateur en jour de la semaine. Par exemple, si l'utilisateur entre 4 pour le jour, 2 pour le mois et 2021 pour l'année,la fonction va retourner jeudi. Pour cela, nous allons utiliser la formule de la congruence de Zeller.
 
 ![Zeller's congruence](https://wikimedia.org/api/rest_v1/media/math/render/svg/0f95195dcc0d98b351294277071736e97053324e)
@@ -141,7 +141,7 @@ Une fois ces étapes finies, le résultat t est convertir en jour. Finalement, i
 
         return jour_semaine
 ```
-## Exercice 5:
+## Exercice 5: /2points
 Un permis de chasse à point remplace désormais le permis de chasse traditionnel. Chaque chasseur possède au départ un capital de 100 points. Si le chasseur tue un Dindon, il perd 1 point, 3 points pour un Lièvre, 5 points pour un cerf et 10 points pour un ours noir. Le permis coûte 300$.
 
 Dans cet exercice, vous devez compléter la fonction pointsperdu qui reçoit le nombre de proies du chasseur de chaque espèce et qui renvoie le nombre de points disponible.
