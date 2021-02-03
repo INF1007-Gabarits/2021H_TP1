@@ -11,6 +11,6 @@ def calculer_portee(angle, vitesse):
     return portee
 
 if __name__ == '__main__':
-    angle = float(input("indiquez l'angle du canon (en rad): "))
+    angle = float(input("indiquez l'angle du canon (en deg): "))
     vitesse = float(input("indiquez la vitesse initiale (en km/h) du canon: "))
     calculer_portee(angle, vitesse)
