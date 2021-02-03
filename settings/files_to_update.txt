@@ -7,5 +7,6 @@ exercice3.py
 exercice4.py
 exercice5.py
 test_assignment.py
+settings/test_associations.json
 settings/files_to_update.txt
 settings/variables.txt
