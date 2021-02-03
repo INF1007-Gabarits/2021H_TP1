@@ -1,7 +1,7 @@
 # TP1
 
 <!--- Changer la date de remise en modifiant le URL--->
-#### :alarm_clock: [Date de remise le dimanche 17 fevrier 2021 à 23h59](https://www.timeanddate.com/countdown/generic?iso=20200927T2359&p0=165&msg=Remise&font=cursive&csz=1#)
+#### :alarm_clock: [Date de remise le mercredi 17 février 2021 à 23h55](https://www.timeanddate.com/countdown/generic?iso=20210217T2355&p0=1996&font=cursive)
 
 ## Objectif
 
@@ -9,9 +9,9 @@ Ce TP a pour objectif de vous introduire à l'algorithmie avec le langage de pro
 Celui-ci est composé de 5 exercices, pour lesquels vous devez compléter le code avec l'indicateur `TODO`.
 
 ## Grilles de correction
-Le TP est sur 20. Chaque question compte pour 4 points.
+Le TP est sur 20 pour 5 exercices.
 
-Un bon résultat donnera la note de 4/4. Une erreur minime (une erreur de tape par exemple) mènera à une pénalité de 0.5 point. Une erreur majeure (erreur dans un symbole arithmétique, question non répondue, ...) ménera à une pénalité de 1 à 4 points.
+Un bon résultat donnera la note maximale. Une erreur minime (une erreur de tape par exemple) mènera à une pénalité de 0.5 point. Une erreur majeure (erreur dans un symbole arithmétique, question non répondue...) mènera à une pénalité de 1 à 6 points selon l'exercice.
 
 ## Consignes à respecter
 
